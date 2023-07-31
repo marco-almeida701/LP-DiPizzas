@@ -58,3 +58,5 @@ As this project is primarily for educational purposes, contributions are not exp
 The DiPizza website project is licensed under the MIT License, permitting you to modify, distribute, and use the code freely.
 
 ### **Note:** The pizza images and logo used in this project are fictional and used for demonstration purposes only. Any resemblance to real products or brands is purely coincidental.
+
+**Thank you for exploring DiPizza! Happy coding! 🍕🍕🍕**
