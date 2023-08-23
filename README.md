@@ -43,7 +43,7 @@ The website features the following interactive elements:
 **Toggle Animation:** The website features a JavaScript toggle animation that enables users to click on the hamburger menu and toggle the appearance of the navigation menu.
 
 # How to Use
-To use the DiPizza website, simply open the index.html file in a web browser. The website will load, and you can explore its various sections, including the home page, about us, menu, and contact information.
+To use the DiPizza website, simply open the **index.html** file in a web browser. The website will load, and you can explore its various sections, including the home page, about us, menu, and contact information.
 
 **Navigation:** On desktop, the navigation menu is visible at the top of the page. On smaller screens, click the three dots icon to access the navigation menu.
 
