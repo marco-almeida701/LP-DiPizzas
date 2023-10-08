@@ -47,7 +47,7 @@ To use the DiPizza website, simply open the **index.html** file in a web browser
 
 **Navigation:** On desktop, the navigation menu is visible at the top of the page. On smaller screens, click the three dots icon to access the navigation menu.
 
-**Pizza Selection:** On the "Menu" section, you can view different pizza options, along with their pricing for various sizes (6 slices, 8 slices, and 12 slices). Click the "Request" button to simulate requesting a particular pizza (note that this feature is not connected to any backend system).
+**Pizza Selection:** On the **"Menu"** section, you can view different pizza options, along with their pricing for various sizes (6 slices, 8 slices, and 12 slices). Click the "Request" button to simulate requesting a particular pizza (note that this feature is not connected to any backend system).
 
 **Responsive View:** To experience the website's responsive design, you can resize the browser window to see how the layout adapts to different screen sizes.
 
